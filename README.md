@@ -24,11 +24,9 @@
 
 ### 💼 Proyectos destacados
 
-- 🥗 **[Meal Planner App](https://github.com/andressanjuancalvo/meal-planner)**  
-  App para organizar menús semanales con React + Node + MongoDB.
+- 🥗 **[Meal Planner App] Soon...
 
-- ☁️ **[Cloud Infra Demo](https://github.com/andressanjuancalvo/cloud-terraform-demo)**  
-  Infraestructura cloud desplegada con Terraform en AWS y Azure.
+  
 
 ---
 
