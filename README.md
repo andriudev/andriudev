@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Andrés Sanjuán Calvo</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> con experiencia en el stack MERN y despliegue de infraestructura cloud en AWS y Azure con Terraform. <br/>
+  <strong>Full Stack Developer</strong> con experiencia en el stack MERN y despliegue de infraestructura cloud en AWS y Azure usando Terraform. <br/>
   Apasionado por el desarrollo web, DevOps y el aprendizaje autodidacta.
 </p>
 
@@ -10,23 +10,21 @@
 ### 🧰 Tecnologías
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js" />
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform" />
-  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+  <img title="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img title="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img title="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img title="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img title="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img title="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img title="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
 ### 💼 Proyectos destacados
 
-- 🥗 **[Meal Planner App] Soon...
-
-  
+- 🥗 **[Meal Planner App] Soon...**
 
 ---
 
@@ -40,6 +38,15 @@
 ### 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andressanjuancalvo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:asanjuanpersonal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:asanjuanpersonal@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/andressanjuancalvo" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/andressanjuancalvo" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
 </p>
