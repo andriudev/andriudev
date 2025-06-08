@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Andrés Sanjuán</h1>
+<h1 align="center">👋 ¡Hola!, soy Andrés Sanjuán</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> con experiencia en el stack MERN y despliegue de infraestructura cloud en AWS y Azure usando Terraform. <br/>
